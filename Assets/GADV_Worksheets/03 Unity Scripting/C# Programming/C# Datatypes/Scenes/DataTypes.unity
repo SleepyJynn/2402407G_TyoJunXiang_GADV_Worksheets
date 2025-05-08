@@ -133,8 +133,9 @@ GameObject:
   - component: {fileID: 11400541}
   - component: {fileID: 11400540}
   - component: {fileID: 11400542}
+  - component: {fileID: 11400543}
   m_Layer: 0
-  m_Name: sprite
+  m_Name: sprite asteriod
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -217,6 +218,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 91e9f8ddb3b51a54db923c5ccd1e0096, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &11400543
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 11400539}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32e343ffe2ee6d44da6a886d66dfea82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1682578102
